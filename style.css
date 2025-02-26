@@ -1,0 +1,20 @@
+body {
+  --display-tx: "highest-praise", sans-serif;
+  --bg-color: #fefefe;
+  --tx-color: #323232;
+  --display-co: #702963;
+  font-family: libertad, sans-serif;
+  font-size: 16px;
+  color: var(--tx-color); }
+
+main {
+  margin: 0 auto;
+  width: 85%;
+
+h1 {
+  font-family: var(--display-tx);
+  text-align: center; }
+
+h2 {
+}
+  
