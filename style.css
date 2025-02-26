@@ -2,22 +2,24 @@ body {
   --display-tx: "highest-praise", sans-serif;
   --bg-color: #fefefe;
   --tx-color: #323232;
-  --display-co: #702963;
+  --display-co: #734ead;
   font-family: libertad, sans-serif;
   font-size: 16px;
   color: var(--tx-color); }
 
 main {
   margin: 0 auto;
-  width: 85%;
+  width: 80%;
 
 h1 {
   font-family: var(--display-tx);
   color: var(--display-co);
-  font-size: 3rem;
-  letter-spacing: 2px;
+  font-size: 4.5em;
+  letter-spacing: 3px;
   text-align: center; }
 
 h2 {
+  text-align: center;
+  margin-top: -2em;
 }
   
